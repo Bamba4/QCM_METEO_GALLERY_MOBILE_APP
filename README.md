@@ -1,6 +1,9 @@
 # my_first_app
 
-A new Flutter project.
+ - App mobil when using flutter framework 
+ - You give the posibility to search the Galery for any city in the word 
+ - See the evolution for the temperature in the word 
+ - Little QCM for your level in Algorithme
 
 ## Getting Started
 
