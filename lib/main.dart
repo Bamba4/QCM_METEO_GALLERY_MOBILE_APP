@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     return Scaffold(
         drawer: MainDrawer(),
         appBar: AppBar(title: Text("My APP"), backgroundColor: Colors.deepOrange),
-        body:   Image.asset('images/coumba.JPG', width: 1000,)
+        body:   Image.asset('images/coum.JPG', width: 1000,)
     );
   }
 }
